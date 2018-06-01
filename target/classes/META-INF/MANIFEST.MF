@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Shafqat Shafi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Hp
+Implementation-Vendor-Id: com.greydelta
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-with-jpa
+Created-By: Maven Integration for Eclipse
+
